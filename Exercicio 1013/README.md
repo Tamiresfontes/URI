@@ -28,8 +28,8 @@ MaiorAB= (a + b + abs (a - b)) / 2
 
 if MaiorAB < c:
 
-  print(c,"eh o maior")
+      print(c,"eh o maior")
 
 elif MaiorAB > c:
 
-  print("{:.0F}".format(MaiorAB),"eh o maior")
+      print("{:.0F}".format(MaiorAB),"eh o maior")
