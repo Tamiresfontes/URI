@@ -15,7 +15,7 @@ Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exempl
 |           **Exemplo de entrada**          |           **Exemplo de saída**          |
 |:-----------------------------------------:|:---------------------------------------:|
 |2.00                                       |A=12.5664                                |
-|2.00                                       |A=31819.3103                             |
+|100.64                                     |A=31819.3103                             |
 |150.00                                     |A=70685.7750                             |
 
 

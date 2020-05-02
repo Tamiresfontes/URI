@@ -10,6 +10,15 @@ O arquivo de entrada contém 2 valores com uma casa decimal cada um.
 
 Calcule e imprima a variável MEDIA conforme exemplo abaixo, com 5 dígitos após o ponto decimal e com um espaço em branco antes e depois da igualdade. Utilize variáveis de dupla precisão (double) e como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 
+|           **Exemplo de entrada**          |           **Exemplo de saída**          |
+|:-----------------------------------------:|:---------------------------------------:|
+|5.0                                        |MEDIA = 6.43182                          |
+|7.1                                                                                  |
+|0.0                                        |MEDIA = 4.84091                          |
+|7.1                                                                                  |
+|10.0                                       |MEDIA = 10.00000                         |
+|10.0                                                                                 |
+
 ## Resposta
 
 A=float(input())
