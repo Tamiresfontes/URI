@@ -11,11 +11,11 @@ Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X
 |           **Exemplo de entrada**          |           **Exemplo de saída**          |
 |:-----------------------------------------:|:---------------------------------------:|
 |10                                         |x = 19                                   |
-|9                                          |                                         |
+|9                                                                                    |
 |-10                                        |x = -6                                   |
-|4                                          |                                         |
+|4                                                                                    |
 |15                                         |x =  8                                   |
-|-7                                         |                                         |
+|-7                                                                                   |
 
 
 ## Resposta
