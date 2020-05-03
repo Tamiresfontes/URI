@@ -10,6 +10,15 @@ O arquivo de entrada contém duas linhas de dados. Em cada linha haverá 3 valor
 
 A saída deverá ser uma mensagem conforme o exemplo fornecido abaixo, lembrando de deixar um espaço após os dois pontos e um espaço após o "R$". O valor deverá ser apresentado com 2 casas após o ponto.
 
+|           **Exemplo de entrada**          |           **Exemplo de saída**          |
+|:-----------------------------------------:|:---------------------------------------:|
+|12 1 5.30                                   VALOR A PAGAR: R$ 15.50                  |
+|16 2 5.10                                                                            |
+|13 2 15.30                                  VALOR A PAGAR: R$ 51.40                  |
+|161 4 5.20                                                                           |
+|1 1 15.10                                   VALOR A PAGAR: R$ 30.20                  |
+|2 1 15.10                                                                            |
+
 ## Resposta
 
 p1=input().split()

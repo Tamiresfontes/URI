@@ -10,6 +10,21 @@ O arquivo de entrada contém 4 valores inteiros.
 
 Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade.
 
+|           **Exemplo de entrada**          |           **Exemplo de saída**          |
+|:-----------------------------------------:|:---------------------------------------:|
+|5                                                                                    |
+|6                                          |DIFERENÇA = -26                          |
+|7                                                                                    |
+|8                                                                                    |
+|0                                                                                    |
+|0                                          |DIFERENÇA = -56                          |
+|7                                                                                    |
+|8                                                                                    |
+|5                                                                                    |
+|6                                          |DIFERENÇA = 86                           |
+|-                                                                                    |
+|8                                                                                    |
+
 ## Resposta
 
 A=int(input())

@@ -12,6 +12,12 @@ O arquivo de entrada contém um valor de ponto flutuante (dupla precisão), corr
 
 A saída deverá ser uma mensagem "VOLUME" conforme o exemplo fornecido abaixo, com um espaço antes e um espaço depois da igualdade. O valor deverá ser apresentado com 3 casas após o ponto.
 
+|           **Exemplo de entrada**          |           **Exemplo de saída**          |
+|:-----------------------------------------:|:---------------------------------------:|
+|3                                          |VOLUME = 113.097                         |
+|15                                         |VOLUME = 14137.155                       |
+|1523                                       |VOLUME = 14797486501.627                 |
+
 ## Resposta
 
 R = float(input())

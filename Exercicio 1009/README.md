@@ -10,6 +10,18 @@ O arquivo de entrada contém um texto (primeiro nome do vendedor) e 2 valores de
 
 Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.
 
+|           **Exemplo de entrada**          |           **Exemplo de saída**          |
+|:-----------------------------------------:|:---------------------------------------:|
+|JOAO                                        TOTAL = 684.54                           |
+|500.00                                                                               |
+|1230.30                                                                              |
+|PEDRO                                       TOTAL = 700.00                           |
+|700.00                                                                               |
+|0.00                                                                                 |
+|MANGOJATA                                   TOTAL = 1887.58                          |
+|1700.00                                                                              |
+|1230.50                                                                              |
+
 ## Resposta
 
 N = input()
