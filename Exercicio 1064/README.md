@@ -11,6 +11,7 @@ A entrada contém 6 números que podem ser valores inteiros ou de ponto flutuant
 O primeiro valor de saída é a quantidade de valores positivos. A próxima linha deve mostrar a média dos valores positivos digitados.
 
 |           **Exemplo de entrada**          |           **Exemplo de saída**          |
+|:-----------------------------------------:|:---------------------------------------:|
 |-7                                         |4 valores positivos                      |
 |-5                                         |7.4                                      |
 |6                                          |                                         |

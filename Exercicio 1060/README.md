@@ -11,6 +11,7 @@ Seis valores, negativos e/ou positivos.
 Imprima uma mensagem dizendo quantos valores positivos foram lidos.
 
 |           **Exemplo de entrada**          |           **Exemplo de saída**          |
+|:-----------------------------------------:|:---------------------------------------:|
 |-7                                         |4 valores positivos                      |
 |-5                                         |                                         |
 |6                                          |                                         |

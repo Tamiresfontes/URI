@@ -11,6 +11,7 @@ O arquivo de entrada contém 5 valores inteiros quaisquer.
 Imprima a mensagem conforme o exemplo fornecido, indicando a quantidade de valores pares lidos.
 
 |           **Exemplo de entrada**          |           **Exemplo de saída**          |
+|:-----------------------------------------:|:---------------------------------------:|
 |-7                                         |3 valores pares                          |
 |-5                                         |                                         |
 |6                                          |                                         |

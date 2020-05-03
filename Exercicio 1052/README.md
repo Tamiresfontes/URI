@@ -11,6 +11,7 @@ A entrada contém um único valor inteiro.
 Imprima por extenso o nome do mês correspondente ao número existente na entrada, com a primeira letra em maiúscula.
 
 |           **Exemplo de entrada**          |           **Exemplo de saída**          |
+|:-----------------------------------------:|:---------------------------------------:|
 |4                                          |April                                    |
 
 ## Resposta

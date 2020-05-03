@@ -20,6 +20,7 @@ O arquivo de entrada contém dois valores inteiros correspondentes ao código e 
 O arquivo de saída deve conter a mensagem "Total: R$ " seguido pelo valor a ser pago, com 2 casas após o ponto decimal.
 
 |           **Exemplo de entrada**          |           **Exemplo de saída**          |
+|:-----------------------------------------:|:---------------------------------------:|
 |3 2                                        |Total: R$ 10.00                          |
 |4 3                                        |Total: R$ 06.00                          |
 |2 3                                        |Total: R$ 13.50                          |
