@@ -12,6 +12,18 @@ O arquivo de entrada contém um valor inteiro.
 
 Imprima a saída conforme exemplo fornecido.
 
+|           **Exemplo de entrada**          |           **Exemplo de saída**          |
+|:-----------------------------------------:|:---------------------------------------:|
+|400                                        |1 ano (s)                                |
+|                                           |1 mes(es)                                |
+|                                           |5 dia(s)                                 |
+|800                                        |2 ano (s)                                |
+|                                           |2 mes(es)                                |
+|                                           |10 dia(s)                                |
+|30                                         |0 ano (s)                                |
+|                                           |1 mes(es)                                |
+|                                           |0 dia(s)                                 |
+
 ## Resposta
 
 

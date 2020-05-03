@@ -10,6 +10,17 @@ Leia três valores de ponto flutuante (double) A, B e C.
 
 Se não houver possibilidade de calcular as raízes, apresente a mensagem "Impossivel calcular". Caso contrário, imprima o resultado das raízes com 5 dígitos após o ponto, com uma mensagem correspondente conforme exemplo abaixo. Imprima sempre o final de linha após cada mensagem.
 
+|           **Exemplo de entrada**          |           **Exemplo de saída**          |
+|:-----------------------------------------:|:---------------------------------------:|
+|10.0 20.1 5.1                              |R1 = -0.29788                            |
+|                                           |R2 = -1.71212                            |
+|0.0 20.0 5.0                               |Impossivel calcular                      |
+|                                           |                                         |
+|10.3 203.0 5.0                             |R1 = -0.02466                            |
+|                                           |R2 = -19.68408                           |
+|10.0 3.0 5.0                              |Impossivel calcular                       |
+
+
 ## Resposta
 
 x = input().split()

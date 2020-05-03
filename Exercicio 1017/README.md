@@ -10,6 +10,15 @@ O arquivo de entrada contém dois inteiros. O primeiro é o tempo gasto na viage
 
 Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal
 
+|           **Exemplo de entrada**          |           **Exemplo de saída**          |
+|:-----------------------------------------:|:---------------------------------------:|
+|10                                         |70.833                                   |
+|85                                         |                                         |
+|2                                          |15.333                                   |
+|92                                         |                                         |
+|22                                         |122.833                                  |
+|67                                         |                                         |
+
 ## Resposta
 
 h = int(input())

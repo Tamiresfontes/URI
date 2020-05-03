@@ -10,6 +10,11 @@ Quatro números inteiros A, B, C e D.
 
 Mostre a respectiva mensagem após a validação dos valores.
 
+|           **Exemplo de entrada**          |           **Exemplo de saída**          |
+|:-----------------------------------------:|:---------------------------------------:|
+|5 6 7 8                                    |Valores nao aceitos                      |
+|2 3 2 6                                    |Valores aceitos                          |
+
 ## Resposta
 
 X = input().split()

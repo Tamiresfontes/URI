@@ -14,6 +14,13 @@ O arquivo de entrada contém um número com ponto flutuante qualquer.
 
 A saída deve ser uma mensagem conforme exemplo abaixo.
 
+|           **Exemplo de entrada**          |           **Exemplo de saída**          |
+|:-----------------------------------------:|:---------------------------------------:|
+|25.01                                      |Intervalo (25,50]                        |
+|25.00                                      |Intervalo [0,25]                         |
+|100.00                                     |Intervalo [0,25]                         |
+|-25.02                                     |Fora de intervalo                        |
+
 ## Resposta
 
 x = float(input())
