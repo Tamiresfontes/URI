@@ -12,15 +12,15 @@ Imprima o número e o salário do funcionário, conforme exemplo fornecido, com 
 
 |           **Exemplo de entrada**          |           **Exemplo de saída**          |
 |:-----------------------------------------:|:---------------------------------------:|
-|25                                          NUMBER = 25                              |
+|25                                         |NUMBER = 25                              |
 |100                                        |SALARY = U$ 550.00                       |
-|5.50                                                                                 |
-|1                                           NUMBER = 1                               |
+|5.50                                       |                                         |
+|1                                          |NUMBER = 1                               |
 |200                                        |SALARY = U$ 4100.00                      |
-|20.50                                                                                |
-|6                                           NUMBER = 6                               |
+|20.50                                      |                                         |
+|6                                          |NUMBER = 6                               |
 |145                                        |SALARY = U$ 2254.75                      |
-|15.55                                                                                |
+|15.55                                      |                                         |
 
 
 

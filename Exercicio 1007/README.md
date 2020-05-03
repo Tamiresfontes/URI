@@ -12,18 +12,18 @@ Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo a
 
 |           **Exemplo de entrada**          |           **Exemplo de saída**          |
 |:-----------------------------------------:|:---------------------------------------:|
-|5                                                                                    |
+|5                                          |                                         |
 |6                                          |DIFERENÇA = -26                          |
-|7                                                                                    |
-|8                                                                                    |
-|0                                                                                    |
+|7                                          |                                         |
+|8                                          |                                         |
+|0                                          |                                         |
 |0                                          |DIFERENÇA = -56                          |
-|7                                                                                    |
-|8                                                                                    |
-|5                                                                                    |
+|7                                          |                                         |
+|8                                          |                                         |
+|5                                          |                                         |
 |6                                          |DIFERENÇA = 86                           |
-|-                                                                                    |
-|8                                                                                    |
+|-7                                         |                                         |
+|8                                          |                                         |
 
 ## Resposta
 
