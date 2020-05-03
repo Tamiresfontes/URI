@@ -14,6 +14,12 @@ O arquivo de entrada contém um número inteiro.
 
 Imprima o tempo necessário seguido da mensagem "minutos".
 
+|           **Exemplo de entrada**          |           **Exemplo de saída**          |
+|:-----------------------------------------:|:---------------------------------------:|
+|30                                         |60 minutos                               |
+|110                                        |220 minutos                              |
+|7                                          |14 minutos                               |
+
 ## Resposta
 
 d = int(input())
